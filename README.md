@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3115-maximum-prime-difference](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -61,8 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
