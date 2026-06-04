@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
 | [3115-maximum-prime-difference](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0118-pascals-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
