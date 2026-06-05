@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0118-pascals-triangle) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0120-triangle) |
