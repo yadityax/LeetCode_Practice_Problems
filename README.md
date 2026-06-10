@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
