@@ -126,20 +126,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Concurrency
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1115-print-foobar-alternately) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
