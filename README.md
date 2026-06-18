@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0020-valid-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [2437-number-of-valid-clock-times](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2437-number-of-valid-clock-times) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2437-number-of-valid-clock-times) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
