@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int largestAltitude(vector<int>& gain) {
+
+        vector<int> netgain(gain.size() + 1);
+
+        netgain[0] = 0;
+
+        for (int i = 0; i < gain.size(); i++) {
+
+            netgain[i + 1] = netgain[i] + gain[i];
+        }
+
+        return *max_element(netgain.begin(), netgain.end());
+    }
+};
