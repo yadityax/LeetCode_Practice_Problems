@@ -4,10 +4,9 @@ public:
         int start = 0, mid, end = nums.size()-1, index = nums.size();
         while(start <= end){
             mid = start + (end - start) / 2;
-            if(nums[mid] == target){
-                index = mid;
-                break;
-            }
+            if(nums[mid] == target)
+                return mid;
+
             else if (nums[mid] < target)
                 start = mid + 1;
             else {
