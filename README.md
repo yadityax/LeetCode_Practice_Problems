@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0704-binary-search) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
