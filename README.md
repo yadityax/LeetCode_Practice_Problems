@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0704-binary-search) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
