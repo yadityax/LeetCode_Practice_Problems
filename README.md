@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0198-house-robber) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0704-binary-search) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1732-find-the-highest-altitude) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3536-maximum-product-of-two-digits) |
