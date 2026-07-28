@@ -7,9 +7,9 @@ public:
             if(nums[mid] == target)
                 return mid;
             // Left side sorted
-            else if(nums[mid] >= nums[0])
+            else if(nums[mid] >= nums[start])
             {
-                if(nums[0] <= target && nums[mid] >= target)
+                if(nums[start] <= target && nums[mid] >= target)
                     end = mid - 1;
                 else
                     start = mid + 1;
