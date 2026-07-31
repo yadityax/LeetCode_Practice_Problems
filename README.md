@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0704-binary-search) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1539-kth-missing-positive-number) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
