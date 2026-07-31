@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0198-house-robber) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
