@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
+| [1901-find-a-peak-element-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3115-maximum-prime-difference](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3115-maximum-prime-difference) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
