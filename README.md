@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1859-sorting-the-sentence](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1859-sorting-the-sentence) |
 | [2437-number-of-valid-clock-times](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2437-number-of-valid-clock-times) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Array
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
+| [1859-sorting-the-sentence](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
