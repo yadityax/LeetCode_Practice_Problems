@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1901-find-a-peak-element-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
 |  |
 | ------- |
