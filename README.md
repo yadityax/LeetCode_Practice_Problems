@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0409-longest-palindrome) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1859-sorting-the-sentence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
