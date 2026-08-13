@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
