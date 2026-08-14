@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int maximumLengthSubstring(string s) {
+        vector<int>count(256,0);
+        int first=0,second=0,len=0;
+
+        while(second<s.size())
+        {
+            while(count[s[second]]>=2)
+            {
+                count[s[first]]--;
+                first++;
+            }
+            count[s[second]]++;
+            len = max(len, second-first+1);
+            second++;
+        }
+        return len;
+    }
+};
