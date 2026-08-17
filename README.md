@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1539-kth-missing-positive-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
