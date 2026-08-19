@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0367-valid-perfect-square) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0992-subarrays-with-k-different-integers) |
