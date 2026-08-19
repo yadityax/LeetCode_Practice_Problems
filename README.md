@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0930-binary-subarrays-with-sum) |
