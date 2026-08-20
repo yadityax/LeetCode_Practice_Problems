@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Geometry
 |  |
 | ------- |
