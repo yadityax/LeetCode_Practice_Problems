@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0876-middle-of-the-linked-list) |
