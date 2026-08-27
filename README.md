@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1840-maximum-building-height) |
 | [3115-maximum-prime-difference](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Geometry
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0268-missing-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
