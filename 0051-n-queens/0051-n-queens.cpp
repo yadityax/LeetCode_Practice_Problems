@@ -4,7 +4,7 @@ public:
     // SC O(N^2)
     bool check(int n, vector<string>&Board, int i, int j)
     {
-        // Same Diagonal 
+        // Upper Principle Diagonal 
         int row = i, col = j;
         while(row > -1 && col > -1)
         {
@@ -13,7 +13,7 @@ public:
             row--,col--;
         }
 
-        // Same Anti-Diagonal
+        // Upper Anti-Diagonal
         row = i, col = j;
         while(row > -1 && col < n)
         {
