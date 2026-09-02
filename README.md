@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0066-plus-one) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0078-subsets) |
 ## Tree
 |  |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0876-middle-of-the-linked-list) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
