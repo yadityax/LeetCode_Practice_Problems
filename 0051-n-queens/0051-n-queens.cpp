@@ -1,6 +1,7 @@
 class Solution {
 public:
-
+    // TC O(N!)
+    // SC O(N^2)
     bool check(int n, vector<string>&Board, int i, int j)
     {
         // Same Diagonal 
