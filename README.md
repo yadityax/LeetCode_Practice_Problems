@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Counting
 |  |
 | ------- |
