@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0844-backspace-string-compare](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1859-sorting-the-sentence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0844-backspace-string-compare) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
