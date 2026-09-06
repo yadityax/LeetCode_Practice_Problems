@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -362,4 +363,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yadityax/LeetCode_Practice_Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
